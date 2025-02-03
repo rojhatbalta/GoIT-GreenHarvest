@@ -1,5 +1,6 @@
 <svg aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <defs>
+		<!-- Green Harvest logo for mobile device -->
 		<symbol id="logo-mobile" width="168" height="16" viewBox="0 0 168 16" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path d="M14.5411 0.156924H12.5364C11.9178 0.156924 11.4163 0.648347 11.4163 1.25459V3.21923C11.4163 3.82547 11.9178 4.31692 12.5364 4.31692H14.5411C15.1597 4.31692 15.6612 3.82547 15.6612 3.21923V1.25459C15.6612 0.648347 15.1597 0.156924 14.5411 0.156924Z" fill="#FBFBFB"/>
 			<path d="M3.36519 11.52H1.20624C0.540049 11.52 0 12.0115 0 12.6177V14.5823C0 15.1886 0.540049 15.68 1.20624 15.68H3.36519C4.03138 15.68 4.57143 15.1886 4.57143 14.5823V12.6177C4.57143 12.0115 4.03138 11.52 3.36519 11.52Z" fill="#FBFBFB"/>
@@ -24,6 +25,8 @@
 			<path d="M150.311 14C146.972 14 144.961 12.384 144.961 9.984H147.834C147.798 11.344 148.803 12.096 150.311 12.096C151.909 12.096 152.662 11.536 152.662 10.704C152.662 9.872 152.016 9.52 149.718 8.96C147.618 8.448 145.32 7.84 145.32 5.44C145.32 3.536 147.187 2 150.131 2C153.165 2 155.104 3.52 155.104 5.664H152.321C152.303 4.528 151.442 3.904 150.131 3.904C148.857 3.904 148.013 4.48 148.013 5.248C148.013 6.16 148.713 6.448 150.544 6.912C153.255 7.584 155.445 7.856 155.445 10.464C155.445 12.56 153.309 14 150.311 14Z" fill="#FBFBFB"/>
 			<path d="M159.537 13.84V4.064H155.57V2.16H166V4.064H162.051V13.84H159.537Z" fill="#FBFBFB"/>
 		</symbol>
+
+		<!-- Green Harvest logo for tablet and desktop device -->
 		<symbol id="logo-tablet" width="216" height="20" viewBox="0 0 216 20" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path d="M18.1764 0.196155H15.6704C14.8972 0.196155 14.2704 0.810434 14.2704 1.56823V4.02403C14.2704 4.78183 14.8972 5.39615 15.6704 5.39615H18.1764C18.9496 5.39615 19.5765 4.78183 19.5765 4.02403V1.56823C19.5765 0.810434 18.9496 0.196155 18.1764 0.196155Z" fill="#FBFBFB"/>
 			<path d="M4.20649 14.4H1.5078C0.675061 14.4 0 15.0143 0 15.7721V18.2279C0 18.9857 0.675061 19.6 1.5078 19.6H4.20649C5.03922 19.6 5.71429 18.9857 5.71429 18.2279V15.7721C5.71429 15.0143 5.03922 14.4 4.20649 14.4Z" fill="#FBFBFB"/>
@@ -48,16 +51,24 @@
 			<path d="M195.497 18.8893C191.228 18.8893 188.657 16.6449 188.657 13.3115H192.329C192.283 15.2004 193.569 16.2449 195.497 16.2449C197.539 16.2449 198.503 15.4671 198.503 14.3115C198.503 13.156 197.677 12.6671 194.739 11.8893C192.054 11.1782 189.116 10.3338 189.116 7.00043C189.116 4.35599 191.503 2.22266 195.267 2.22266C199.146 2.22266 201.625 4.33377 201.625 7.31154H198.067C198.044 5.73377 196.943 4.8671 195.267 4.8671C193.638 4.8671 192.559 5.6671 192.559 6.73377C192.559 8.00043 193.454 8.40043 195.795 9.04488C199.261 9.97821 202.061 10.356 202.061 13.9782C202.061 16.8893 199.33 18.8893 195.497 18.8893Z" fill="#FBFBFB"/>
 			<path d="M207.293 18.6671V5.08932H202.221V2.44488H215.556V5.08932H210.506V18.6671H207.293Z" fill="#FBFBFB"/>
 		</symbol>
+
+		<!-- Hamburger menu icon for mobile device -->
 		<symbol id="hamburger-mobile" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path d="M5.33337 8H26.6667M5.33337 16H16M5.33337 24H26.6667" stroke="#FBFBFB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 		</symbol>
+
+		<!-- Hamburger menu icon for tablet device -->
 		<symbol id="hamburger-tablet" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path d="M6.66663 10H33.3333M6.66663 20H20M6.66663 30H33.3333" stroke="#FBFBFB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 		</symbol>
+
+		<!-- Modal close icon for mobile device -->
 		<symbol id="close-mobile" width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path d="M24 8L8 24" stroke="#FBFBFB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 			<path d="M8 8L24 24" stroke="#FBFBFB" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 		</symbol>
+
+		<!-- Modal close icon for tablet device -->
 		<symbol id="close-tablet" width="40" height="40" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg">
 			<path d="M30 10L10 30" stroke="#FBFBFB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 			<path d="M10 10L30 30" stroke="#FBFBFB" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
